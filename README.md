@@ -1,6 +1,8 @@
 # Possion_Image_Editing
 
-Poisson image editing is a method of seamless cloning. The core of Poisson image editing is to modify the gradients of an image and then recover the modified image from the new gradients by solving the optimisation problem with Poisson's equations. This repository is an implementation of this paper: https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf
+Poisson image editing is a method of seamless cloning. The core of Poisson image editing is to modify the gradients of an image and then recover the modified image from the new gradients by solving the optimisation problem with Poisson's equations. 
+
+This repository is an implementation of this paper: https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf
 
 ## Results
 
